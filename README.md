@@ -1,5 +1,7 @@
 # smallblackdog FM
 
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 ## Setup
 
 * Install node.js and npm
